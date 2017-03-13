@@ -1,0 +1,33 @@
+[submodule "hurd-mpackage"]
+	path = hurd-mpackage
+	url = http://git.savannah.gnu.org/cgit/hurd/hurd.git
+[submodule "hurd/glibc"]
+	path = hurd/glibc
+	url = http://git.savannah.gnu.org/cgit/hurd/glibc.git
+[submodule "hurd/gnumach"]
+	path = hurd/gnumach
+	url = http://git.savannah.gnu.org/cgit/hurd/gnumach.git
+[submodule "hurd/hurd"]
+	path = hurd/hurd
+	url = http://git.savannah.gnu.org/cgit/hurd/hurd.git
+[submodule "hurd/incubator"]
+	path = hurd/incubator
+	url = http://git.savannah.gnu.org/cgit/hurd/incubator.git
+[submodule "hurd/mig"]
+	path = hurd/mig
+	url = http://git.savannah.gnu.org/cgit/hurd/mig.git
+[submodule "hurd/procfs"]
+	path = hurd/procfs
+	url = http://git.savannah.gnu.org/cgit/hurd/procfs.git
+[submodule "hurd/unionfs"]
+	path = hurd/unionfs
+	url = http://git.savannah.gnu.org/cgit/hurd/unionfs.git
+[submodule "hurd/viengoos"]
+	path = hurd/viengoos
+	url = http://git.savannah.gnu.org/cgit/hurd/viengoos.git
+[submodule "hurd/web"]
+	path = hurd/web
+	url = http://git.savannah.gnu.org/cgit/hurd/web.git
+[submodule "hurd/libpthread"]
+	path = hurd/libpthread
+	url = http://git.savannah.gnu.org/cgit/hurd/libpthread.git
